@@ -1,0 +1,8 @@
+Lock pages in memory
+
+啟用鎖定記憶體分頁選項
+
+
+https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/enable-the-lock-pages-in-memory-option-windows?view=sql-server-ver16
+
+https://learn.microsoft.com/zh-tw/sql/database-engine/configure-windows/enable-the-lock-pages-in-memory-option-windows?view=sql-server-ver16
